@@ -11,6 +11,8 @@ You are also given:
 Set the filter's coefficients based on the 4 configuration files and drive its input signal using the vector file containing the values of the input signals. 
 
 ## Submitting the assignment
-This assignment doesn't have an autograder and will be graded manually. 
+- Click "Fork" (upper right, above "Add file" and "Code") 
+- Create fork without changing any of the settings
+- Go to signal-processing.py and modify it according to the instructions.
 
-Once you are done, don't forget to submit by updating `filter-initial.py`.
+Note: You can refer to `using-github-and-autograder.pdf` in `/home/emmanuella.pv@oppstar.local/PYTHON_TRAINING/` after you connect to Remote Server `10.80.10.25`. Although the "Using Autograder" part is no longer applicable since we are no longer using GitHub Classroom, the "Using GitHub" part is still applicable. 
